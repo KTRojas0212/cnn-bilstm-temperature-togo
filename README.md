@@ -52,15 +52,3 @@ split.
 
 Baseline comparison is in progress.
 
-<!-- Add a predicted-vs-observed plot here once you have one:
-![Predicted vs observed](figures/predicted_vs_observed.png) -->
-
-## Repository contents
-
-| File | Description |
-|------|-------------|
-| `01_preprocessing.ipynb` | Data download, cleaning and sequence construction |
-| `02_model_training.ipynb` | Model definition, training and evaluation |
-| `requirements.txt` | Python dependencies |
-
-## Running the code
